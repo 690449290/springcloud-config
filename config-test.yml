@@ -1,5 +1,5 @@
 config:
-  info: main branch, springcloud-config/config-test.yml version=3
+  info: main branch, springcloud-config/config-test.yml version=5.5
 spring:
   application:
     name: springcloud-config-test
